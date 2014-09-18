@@ -1,5 +1,4 @@
-
-    RecyclerView是一种新的视图组件，目标是为任何基于适配器的视图提供相似的渲染方式，RecyclerView可以作为ListView和GridView控件的继承者。这里用一个demo来实现像使用Listview一样使用RecyclerView。
+RecyclerView是一种新的视图组件，目标是为任何基于适配器的视图提供相似的渲染方式，RecyclerView可以作为ListView和GridView控件的继承者。这里用一个demo来实现像使用Listview一样使用RecyclerView。
 
 
 像使用Listview一样使用RecyclerView需要到以下5个元素：
