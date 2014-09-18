@@ -5,6 +5,7 @@ RecyclerView是一种新的视图组件，目标是为任何基于适配器的�
 -------
 
 RecyclerView.Adapter：新型适配器，和ListView的Adapter类似，但也稍有不同。
+
 ViewHolder：用于绑定数据，显示子view。
 
 LayoutManager：这个类决定视图被放在画面中哪个位置，但这只是它的众多职责之一，它还可以管理滚动和循环利用。
