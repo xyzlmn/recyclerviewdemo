@@ -13,3 +13,13 @@ LayoutManager：这个类决定视图被放在画面中哪个位置，但这只�
 ItemDecoration：在item上绘制装饰，比如说是item间的分割线
 
 ItemAnimator：会根据适配器上收到的通知动画显示视图组的修改。基本上，它会自动显示添加和移除条目动画。这也不是一个简单的类，但我们发现DefaultItemAnimator已经可以运行得很好了。
+
+![](https://raw.githubusercontent.com/xyzhang/recyclerviewdemo/master/screen/screen.gif)
+
+
+
+  @author 张兴业
+  
+  http://blog.csdn.net/xyz_lmn
+  
+  我的新浪微博：[@张兴业TBOW](http://weibo.com/xyzlmn)
